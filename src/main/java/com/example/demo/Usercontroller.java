@@ -1,7 +1,7 @@
 @RestController
 public class Usercontroller {
     @Getmapping
-    public string demo () {
+    public String demo () {
         return "Hello World";
     }
 }
